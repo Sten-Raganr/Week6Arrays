@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\bin\Debug\netcoreapp2.1\Backpack.deps.json
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\bin\Debug\netcoreapp2.1\Backpack.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\bin\Debug\netcoreapp2.1\Backpack.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\bin\Debug\netcoreapp2.1\Backpack.dll
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\bin\Debug\netcoreapp2.1\Backpack.pdb
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\obj\Debug\netcoreapp2.1\Backpack.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\obj\Debug\netcoreapp2.1\Backpack.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\obj\Debug\netcoreapp2.1\Backpack.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\obj\Debug\netcoreapp2.1\Backpack.dll
+C:\Users\opilane\source\repos\Week6Arrays\Backpack\obj\Debug\netcoreapp2.1\Backpack.pdb
